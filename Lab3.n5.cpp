@@ -13,7 +13,7 @@ int main()
 
 
     if (r%2==0 && guess =="even"){
-            cout <<"you won";
+            cout <<"You won";
     }
     else if (r%2!=0 && guess== "odd") {
             cout << "You won!";
