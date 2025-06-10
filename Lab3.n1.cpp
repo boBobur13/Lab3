@@ -11,19 +11,19 @@ int main()
 
 case 10 :
     case 9:
-    cout <<" A ";
+    cout <<" A! ";
     break;
 case 8 :
     cout << " B! " ;
 break;
     case 7:
-    cout << "C!";
+    cout << " C! ";
     break;
     case 6:
-        cout << "D" ;
+        cout << " D! " ;
         break;
     default:
-        cout<< "F" ;
+        cout<< " F! " ;
 
     }
 
